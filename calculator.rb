@@ -1,1 +1,4 @@
-firstnumber = 0
+def addition(firstNumber,secondNumber)
+  puts firstNumber + secondNumber
+  
+def
